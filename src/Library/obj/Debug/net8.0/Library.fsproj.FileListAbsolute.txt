@@ -1,0 +1,13 @@
+/Users/fredrik/Documents/MulderLang/src/Library/obj/Debug/net8.0/Library.fsproj.AssemblyReference.cache
+/Users/fredrik/Documents/MulderLang/src/Library/obj/Debug/net8.0/Library.AssemblyInfoInputs.cache
+/Users/fredrik/Documents/MulderLang/src/Library/obj/Debug/net8.0/Library.AssemblyInfo.fs
+/Users/fredrik/Documents/MulderLang/src/Library/obj/Debug/net8.0/Library.fsproj.CoreCompileInputs.cache
+/Users/fredrik/Documents/MulderLang/src/Library/bin/Debug/net8.0/Library.deps.json
+/Users/fredrik/Documents/MulderLang/src/Library/bin/Debug/net8.0/Library.dll
+/Users/fredrik/Documents/MulderLang/src/Library/bin/Debug/net8.0/Library.pdb
+/Users/fredrik/Documents/MulderLang/src/Library/bin/Debug/net8.0/Library.xml
+/Users/fredrik/Documents/MulderLang/src/Library/obj/Debug/net8.0/Library.dll
+/Users/fredrik/Documents/MulderLang/src/Library/obj/Debug/net8.0/refint/Library.dll
+/Users/fredrik/Documents/MulderLang/src/Library/obj/Debug/net8.0/Library.xml
+/Users/fredrik/Documents/MulderLang/src/Library/obj/Debug/net8.0/Library.pdb
+/Users/fredrik/Documents/MulderLang/src/Library/obj/Debug/net8.0/ref/Library.dll

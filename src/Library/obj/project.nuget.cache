@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YoyytNhANFkrqIeeZLVdmoJfWX89LCrfMgxYjHYRI2hCoLCyea2FSDx2i95a8sxVBNL2qkmUvtp03suzSK7JUQ==",
+  "success": true,
+  "projectFilePath": "/Users/fredrik/Documents/MulderLang/src/Library/Library.fsproj",
+  "expectedPackageFiles": [
+    "/Users/fredrik/.nuget/packages/fsharp.core/8.0.100/fsharp.core.8.0.100.nupkg.sha512"
+  ],
+  "logs": []
+}
