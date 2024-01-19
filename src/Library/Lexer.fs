@@ -30,9 +30,9 @@ module Lexer =
             let str, rest = Common.span p input
             Success { Output = str; Rest = rest })
 
-    let private ws = spanL (fun i -> i = ' ')
+    let private ws = spanL ((=) ' ')
 
-    let private lexChar t : Parser<char, char list, LexError> =
+    let private lexChar t =
         Parser
         <| (function
         | [] ->
@@ -112,13 +112,14 @@ module Lexer =
     let private lexComment =
         parser {
             do! ignore (lexString "//")
-            do! ignore (spanL (fun i -> not (i = '\n')))
+            do! ignore (spanL ((<>) '\n'))
         }
 
     let private lexMultiLineComment =
+
         parser {
             do! ignore (lexString "/*")
-            do! ignore (spanL (fun i -> not (i <> '*')))
+            do! ignore (spanL ((<>) '*'))
             do! ignore (lexString "*/")
         }
 

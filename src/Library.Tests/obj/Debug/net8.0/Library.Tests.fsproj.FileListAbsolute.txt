@@ -113,3 +113,4 @@
 /Users/fredrik/Documents/MulderLang/src/Library.Tests/obj/Debug/net8.0/Library.Tests.pdb
 /Users/fredrik/Documents/MulderLang/src/Library.Tests/obj/Debug/net8.0/Library.Tests.genruntimeconfig.cache
 /Users/fredrik/Documents/MulderLang/src/Library.Tests/obj/Debug/net8.0/ref/Library.Tests.dll
+/Users/fredrik/Documents/MulderLang/src/Library.Tests/obj/Debug/net8.0/Library.Tests.sourcelink.json
